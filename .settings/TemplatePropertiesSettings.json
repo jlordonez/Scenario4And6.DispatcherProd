@@ -1,0 +1,1 @@
+{"Workflows":[{"FilePath":"Workflows/GetTransactionDataFromUnprocessedFolder.xaml","Activities":null},{"FilePath":"Workflows/DownloadExcelFileFromStorageBucket.xaml","Activities":null},{"FilePath":"Tests/SendEmailNotificationTransactionFile_TestCase.xaml","Activities":null},{"FilePath":"Misc/Misc_SendNotification_old.xaml","Activities":null}]}
